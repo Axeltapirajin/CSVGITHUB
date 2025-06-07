@@ -1,0 +1,8 @@
+kode_barang,nama_barang,harga_barang,jenis,Harga_jual,profit
+B111,sampo,15000,A1,16500.0,1500.0
+B222,sabun,12000,A2,14400.0,2400.0
+B333,kopi,3000,A1,3300.0,300.0
+B444,terigu,7000,A2,8400.0,1400.0
+B555,gula,10000,A1,11000.0,1000.0
+B666,minyak,7500,A2,9000.0,1500.0
+B777,soda,8000,A1,8800.0,800.0
